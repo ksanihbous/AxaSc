@@ -17,7 +17,7 @@ local camera = workspace.CurrentCamera
 -- KONFIGURASI ShiftRun
 -- ======================================================
 local ID = 10862419793      -- Animation ID
-local RunningSpeed = 40
+local RunningSpeed = 30
 local NormalSpeed = 25
 local RunFOV = 80
 local NormalFOV = 70
